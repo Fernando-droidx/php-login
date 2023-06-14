@@ -60,5 +60,5 @@ Las contribuciones son bienvenidas. Si deseas colaborar en el desarrollo del pro
 
 El proyecto de Login en PHP fue desarrollado por:
 
-- Luis Fernando Ramirez Rivas - Desarrollador principal - [Enlace a tu perfil de GitHub]
+- Luis Fernando Ramirez Rivas - Desarrollador principal - https://github.com/Fernando-droidx/php-login
 
